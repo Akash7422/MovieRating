@@ -79,7 +79,7 @@ hr{
   position: absolute;
   right: 300px;
   top: 50px;
-  display: inline-block;
+  /*display: inline-block;*/
 }
 
 .mountain {
@@ -92,7 +92,7 @@ hr{
   position: absolute;
   left: 350px;
   top: 200px;
-  display: inline-block;
+  /*display: inline-block;*/
 }
 .skill-row{
   width: 50%;
